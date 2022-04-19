@@ -10,14 +10,14 @@ Python語言的turtle內建函式是一個直觀有趣的圖形繪制函數庫�
 #### 創作圖形:
 
 * Square:
-  * (1) Simple Square
-  * (2) Square Spiral
-  * (3) Four-color Square Spiral
+  * Simple Square
+  * Square Spiral
+  * Four-color Square Spiral
 
 * Circle:
-  * (1) Circles
-  * (2) Rosette
-  * (3) Circle Spiral
+  * Circles
+  * Rosette
+  * Circle Spiral
   
 #### 程式範例:
 1) 花環範例程式:
@@ -28,3 +28,4 @@ for _ in range(72):
 ```
 
 ####  創作圖形圖案:
+ <img src="https://github.com/Fantageeks/Python-Turtle/blob/main/1.JPG" width=200, height=200, alt="花環" />
