@@ -28,4 +28,4 @@ for _ in range(72):
 ```
 
 ####  創作圖形圖案:
- <img src="https://github.com/Fantageeks/Python-Turtle/blob/main/1.JPG" width=200, height=200, alt="花環" />
+ <img src="https://github.com/Fantageeks/Python-Turtle/blob/main/1.JPG" width=200, height=200, alt="花環" /> <img src="https://github.com/Fantageeks/Python-Turtle/blob/main/2.JPG" width=200, height=200, alt="螺旋" />
